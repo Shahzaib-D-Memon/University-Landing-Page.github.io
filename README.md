@@ -1,1 +1,1 @@
-# 18CS101MuetSite.github.io
+# University Website.github.io
